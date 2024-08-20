@@ -67,3 +67,14 @@ div {
     border-right: 4px rgb(102, 136, 97) solid;
     border-bottom: 4px rgb(102, 136, 97) solid;
 } 
+.pink {
+    background-color: rgb(254, 191, 230);
+}
+.pinkA {
+    color:rgb(234, 187, 255);
+}
+.pinkDiv {
+    background-color: rgb(201, 148, 181);
+    border-right: 4px rgb(131, 96, 118) solid;
+    border-bottom: 4px rgb(131, 96, 118) solid;
+} 
