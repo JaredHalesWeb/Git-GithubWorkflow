@@ -20,4 +20,15 @@ div {
     left: 800px;
     border-right: 4px rgb(57, 71, 71) solid;
     border-bottom: 4px rgb(57, 71, 71) solid;
+}
+.yellow {
+    background-color: rgb(122, 154, 154);
+}
+.yellH1 {
+    color:rgb(223, 230, 173);
+}
+.yellDiv {
+    background-color: rgb(92, 115, 115);
+    border-right: 4px rgb(57, 71, 71) solid;
+    border-bottom: 4px rgb(57, 71, 71) solid;
 } 
