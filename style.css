@@ -27,10 +27,21 @@ div {
     background-color: rgb(223, 230, 173);
 }
 .yellA {
-    color:rgb(122, 154, 154);
+    color:rgb(215, 79, 79);
 }
 .yellDiv {
     background-color: rgb(189, 195, 150);
     border-right: 4px rgb(126, 130, 102) solid;
     border-bottom: 4px rgb(126, 130, 102) solid;
+}
+.red {
+    background-color: rgb(215, 79, 79);
+}
+.redA {
+    color:rgb(255, 198, 77);
+}
+.redDiv {
+    background-color: rgb(197, 58, 58);
+    border-right: 4px rgb(127, 36, 36) solid;
+    border-bottom: 4px rgb(127, 36, 36) solid;
 } 
