@@ -5,10 +5,12 @@
 body {
     background-color: rgb(122, 154, 154);
 }
-h1 {
+a {
     color:rgb(223, 230, 173);
     font-size: 64px;
-    text-align: center;
+    position: relative;
+    right: -65px;
+    text-decoration:none;
 }
 div {
     background-color: rgb(92, 115, 115);
@@ -22,13 +24,13 @@ div {
     border-bottom: 4px rgb(57, 71, 71) solid;
 }
 .yellow {
-    background-color: rgb(122, 154, 154);
+    background-color: rgb(223, 230, 173);
 }
-.yellH1 {
-    color:rgb(223, 230, 173);
+.yellA {
+    color:rgb(122, 154, 154);
 }
 .yellDiv {
-    background-color: rgb(92, 115, 115);
-    border-right: 4px rgb(57, 71, 71) solid;
-    border-bottom: 4px rgb(57, 71, 71) solid;
+    background-color: rgb(189, 195, 150);
+    border-right: 4px rgb(126, 130, 102) solid;
+    border-bottom: 4px rgb(126, 130, 102) solid;
 } 
