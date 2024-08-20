@@ -56,3 +56,14 @@ div {
     border-right: 4px rgb(122, 95, 35) solid;
     border-bottom: 4px rgb(122, 95, 35) solid;
 } 
+.green {
+    background-color: rgb(186, 255, 177);
+}
+.greenA {
+    color:rgb(254, 191, 230);
+}
+.greenDiv {
+    background-color: rgb(146, 199, 139);
+    border-right: 4px rgb(102, 136, 97) solid;
+    border-bottom: 4px rgb(102, 136, 97) solid;
+} 
