@@ -10,3 +10,12 @@ h1 {
     font-size: 64px;
     text-align: center;
 }
+div {
+    background-color: white;
+    width:300px;
+    height: 150px;
+    border-radius: 10px;
+    position: relative;
+    top: 350px;
+    left: 800px;
+}
