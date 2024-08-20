@@ -77,4 +77,16 @@ div {
     background-color: rgb(201, 148, 181);
     border-right: 4px rgb(131, 96, 118) solid;
     border-bottom: 4px rgb(131, 96, 118) solid;
-} 
+}
+.purple {
+    background-color: rgb(234, 187, 255);
+}
+.purpleA {
+    color: rgb(122, 154, 154);
+}
+.purpleDiv {
+    background-color: rgb(177, 140, 195);
+    border-right: 4px rgb(108, 85, 119) solid;
+    border-bottom: 4px rgb(108, 85, 119) solid;
+}
+ 
