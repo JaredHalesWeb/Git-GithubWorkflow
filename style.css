@@ -49,10 +49,10 @@ div {
     background-color: rgb(255, 198, 77);
 }
 .orangeA {
-    color:rgb(255, 198, 77);
+    color:rgb(186, 255, 177);
 }
 .orangeDiv {
     background-color: rgb(190, 149, 58);
-    border-right: 4px rgb(190, 149, 58) solid;
-    border-bottom: 4px rgb(190, 149, 58) solid;
+    border-right: 4px rgb(122, 95, 35) solid;
+    border-bottom: 4px rgb(122, 95, 35) solid;
 } 
